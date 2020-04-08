@@ -63,8 +63,8 @@ body{
     color: #f2ebd3;
 
 }
-.won{
-    color: #BD022F
+.won, .won.o::after{
+    color: #BD022F !important
 }
 
 @media only screen and (max-width: 1024px){
